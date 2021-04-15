@@ -10,7 +10,7 @@ mn = (max(pt, st, tt))
 print("\nTemperatura maxima =", mn)
 mm = min(pt, st, tt)
 print("Temperatura minima =", mm)
-
+#media das temperaturas:
 media = int(pt + st + tt) / 3
 print("Media das temperaturas =", media)
 
